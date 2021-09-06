@@ -20,7 +20,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-<img src="https://submissions.us-east-1.linodeobjects.com/ios_university/xe1f2VlS.gif" width=250>
+<img src="https://im3.ezgif.com/tmp/ezgif-3-691777b464cc.gif" width=250>
 
 ### Notes
 I had a couple of issues getting the photo to load, as the URL link I was using was incorrect. I also could not figure out why the synopsis for Breathless would not load. In addition to this, I could not run the app on my phone due to a compiling error that said:
