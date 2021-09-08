@@ -16,13 +16,15 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (3pts) User can view the movie poster image for each movie.
 
 #### BONUS
-- [ ] (2pt) User can view the app on various device sizes and orientations.
-- [ ] (1pt) Run your app on a real device.
+- [x] (2pt) User can view the app on various device sizes and orientations.
+- [x] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-<img src="https://im3.ezgif.com/tmp/ezgif-3-691777b464cc.gif" width=250>
+Flix Running on my personal iPhone
+<img src="https://imgur.com/a/vWVsHIQ" width=250>
+
+Flix Running on an iPhone SE Simulator
+<img src="https://imgur.com/a/RvjZgLj" width=250>
 
 ### Notes
-I had a couple of issues getting the photo to load, as the URL link I was using was incorrect. I also could not figure out why the synopsis for Breathless would not load. In addition to this, I could not run the app on my phone due to a compiling error that said:
-"Signing for "Flix" requires a development team. Select a development team in the Signing & Capabilities editor."
-Apart from this, the app ran smoothly.
+I had a couple of issues getting the photo to load, as the URL link I was using was incorrect. I also could not figure out why the synopsis for Breathless would not load. Lastly, I am not sure why, but the placement of the logo when the app first opens seems to always be off no matter how I try to center it. I also could not center the film posters in the cell if the synopsis was too long. 
