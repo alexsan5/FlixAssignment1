@@ -16,7 +16,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-<img src="https://im3.ezgif.com/tmp/ezgif-3-67fd0b7ef891.gif" width=250><br>
+<img src="https://submissions.us-east-1.linodeobjects.com/ios_university/yLFWaIz7.gif" width=250><br>
 
 ### Notes
 The hardest part of the assignment was getting the proper column allignment, but I was able to fix this using layout constraints. I was unable to figure out how to set up the trailer page unfortunately.
